@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hi there I'm Sara Amgad 👋
+**Backend Developer | Software Developer**
+
+Welcome to my GitHub! 👋 I’m passionate about building reliable backend systems and efficient database solutions. With a background in System and Biomedical Engineering, I thrive on combining problem-solving with continuous learning. Here, you’ll find a range of projects demonstrating my expertise in .NET, Node.js, database management, and my journey into web development.
+
+---
+
+## 💼 What I Do
+- **Backend Development**: Specializing in .NET, with experience building robust server-side logic and API integrations.
+- **Database Management**: Skilled in MySQL and other relational databases, I focus on data structuring, querying, and optimization.
+- **Freelance Work**: Open to freelance projects! I bring adaptability, strong communication, and problem-solving to each client collaboration.
+
+## 🔧 Tech Stack
+- **Languages**: C#, SQL, JavaScript
+- **Frameworks**: .NET, Entity Framework
+- **Databases**: MySQL, SQL Server
+- **Tools**: Git, Visual Studio
+
+## 📈 Current Learning
+I’m currently sharpening my skills in web development with a focus on both .NET and Node.js, diving deeper into modern backend technologies and best practices. I'm also learning frontend technologies to enhance my knowledge and build a more comprehensive skill set.
+
+---
+
 
 <!--
 **SarAmgad/SarAmgad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
