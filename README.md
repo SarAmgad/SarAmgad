@@ -5,17 +5,13 @@ Welcome to my GitHub! 👋 I’m passionate about building reliable backend syst
 
 ---
 
-## 💼 What I Do
-- **Backend Development**: Specializing in .NET, with experience building robust server-side logic and API integrations.
-- **Database Management**: Skilled in MySQL and other relational databases, I focus on data structuring, querying, and optimization.
-- **Freelance Work**: Open to freelance projects! I bring adaptability, strong communication, and problem-solving to each client collaboration.
-
 ## 🔧 Tech Stack
 - **Languages**: C#, SQL, JavaScript
 - **Frameworks**: .NET, Entity Framework
 - **Databases**: MySQL, SQL Server
 - **Tools**: Git, Visual Studio
 
+---
 ## 📈 Current Learning
 I’m currently sharpening my skills in web development with a focus on both .NET and Node.js, diving deeper into modern backend technologies and best practices. I'm also learning frontend technologies to enhance my knowledge and build a more comprehensive skill set.
 
